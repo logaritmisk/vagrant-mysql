@@ -1,0 +1,5 @@
+en:
+  vagrant:
+    plugins:
+      apache2:
+        executing: "Executing: %{command}"
